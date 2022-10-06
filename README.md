@@ -28,8 +28,7 @@ Here are some ideas to get you started:
   * TikTok 
   * YouTube
   * [LinkedIn](https://www.linkedin.com/in/jennifer-esharegharan/) 
-  * [jennietechie.com](https://jennietech.com/)
-
+ 
 
 ###  Peronal Projects 
 
