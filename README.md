@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   * [LinkedIn](https://www.linkedin.com/in/jennifer-esharegharan/) 
  
 
-###  Peronal Projects 
+ 
 
 
 
