@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 ### :woman: About Me
    * I am a data analyst, passionate and committed to helping businesses turn their data into insights. 
    * Some of my favorite tools are 'SQL, Microsoft Power BI, Tableau, Microsoft Excel, Python and R'
+   * I am also a Microsoft Certified Trainer: I teach Microsoft Power BI 
    * I love learning, currently learning to use 'Salesforce'
-   * Teaching is also my superpower! I want to help more people 'Transition to Data Analytics' hence I recently became a Microsoft Certified Trainer. 
    * I create Data Analytics content on TikTok [JennieTechie] to inspire more people to start careers in Data Analytics. 
-   * I lead Data Schooled, a community to help more people get into data. 
+   * I lead Data Schooled, a community to help people get into Data Analytics.
 
 ##### :woman_student:  I am a life long learner who continously seeks opportunities to learn and grow in the field of Data Analytics. 
 
