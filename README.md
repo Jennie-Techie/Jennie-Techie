@@ -16,10 +16,12 @@ Here are some ideas to get you started:
 -->
 
 ### :woman: About Me
-   * I love teaching Data Analytics. 
-   * I create Data Analytics content on TikTok [JennieTechie] and YouTube [Jennie Techie] to inspire more people to start careers in Data Analytics. 
-   * My channels contain videos on SQL, Python, R, Microsoft Excel, Power BI and Tableau.
-   * My goal is 'Helping Professionals Transition to Data Analytics'. 
+   * I am a data analyst, passionate and committed to helping businesses turn their data into insights. 
+   * Some of my favorite tools are 'SQL, Microsoft Power BI, Tableau, Microsoft Excel, Python and R'
+   * I love learning, currently learning to use 'Salesforce'
+   * Teaching is also my superpower! I want to help more people 'Transition to Data Analytics' hence I recently became a Microsoft Certified Trainer. 
+   * I create Data Analytics content on TikTok [JennieTechie] to inspire more people to start careers in Data Analytics. 
+   * I lead Data Schooled, a community to help more people get into data. 
 
 ##### :woman_student:  I am a life long learner who continously seeks opportunities to learn and grow in the field of Data Analytics. 
 
