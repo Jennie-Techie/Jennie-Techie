@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ### :woman: About Me
    * I am a data analyst, passionate and committed to helping businesses turn their data into insights. 
+   * I help business teams turn their business objectives into metrics and KPIs. 
    * Some of my favorite tools are 'SQL, Microsoft Power BI, Tableau, Microsoft Excel, Python and R'
    * I am also a Microsoft Certified Trainer: I teach Microsoft Power BI 
    * I love learning, currently learning to use 'Salesforce'
