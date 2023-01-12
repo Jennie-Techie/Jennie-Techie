@@ -21,8 +21,7 @@ Here are some ideas to get you started:
    * Some of my favorite tools are 'SQL, Microsoft Power BI, Tableau, Microsoft Excel, Python and R'
    * I am also a Microsoft Certified Trainer: I teach Microsoft Power BI 
    * I love learning, currently learning to use 'Salesforce'
-   * I create Data Analytics content on TikTok [JennieTechie] to inspire more people to start careers in Data Analytics. 
-   * I lead Data Schooled, a community to help people get into Data Analytics.
+   
 
 ##### :woman_student:  I am a life long learner who continously seeks opportunities to learn and grow in the field of Data Analytics. 
 
