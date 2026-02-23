@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### :woman: About Me
-   * I am a Data Analytics and Governance Consultant, passionate and committed to helping businesses turn their data into insights. 
+   * I am a Data Analytics and Data Governanance Consultant, passionate and committed to helping businesses turn their data into insights. 
    * I help business teams turn their business objectives into metrics and KPIs. 
    * Some of my favorite tools are 'SQL, Microsoft Power BI, Tableau, Microsoft Excel, Python and R'
    * I am also a Microsoft Certified Trainer: I teach Microsoft Power BI 
